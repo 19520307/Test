@@ -147,10 +147,12 @@
     </Link>
   </ItemDefinitionGroup>
   <ItemGroup>
+    <ClCompile Include="Cuu.cpp" />
     <ClCompile Include="DongHo.cpp" />
     <ClCompile Include="Txt.cpp" />
   </ItemGroup>
   <ItemGroup>
+    <ClInclude Include="Cuu.h" />
     <ClInclude Include="Txt.h" />
   </ItemGroup>
   <Import Project="$(VCTargetsPath)\Microsoft.Cpp.targets" />

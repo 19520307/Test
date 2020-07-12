@@ -21,9 +21,15 @@
     <ClCompile Include="Txt.cpp">
       <Filter>Source Files</Filter>
     </ClCompile>
+    <ClCompile Include="Cuu.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
   </ItemGroup>
   <ItemGroup>
     <ClInclude Include="Txt.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="Cuu.h">
       <Filter>Header Files</Filter>
     </ClInclude>
   </ItemGroup>
