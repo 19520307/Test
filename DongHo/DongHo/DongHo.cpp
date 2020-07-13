@@ -71,4 +71,5 @@ int main() {
 	a.Tinh(t);
 	a.Xuat();
 	return 0;
+	cout << "Hung mat day";
 }
